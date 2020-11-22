@@ -1,0 +1,30 @@
+{
+    "name": "cssreset",
+    "displayName": "CSS Reset",
+    "description": "A simple snippet to reset your CSS file to have absolutely no style, in order to not have conflicts when writing CSS for HTML elements that have some style by default.",
+    "version": "1.0.0",
+    "publisher": "Rishabh Das",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            }
+            {
+                "language": "sass",
+                "path": "./snippets/snippets.code-snippets"
+            }
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
