@@ -2,8 +2,8 @@
     "name": "cssreset",
     "displayName": "CSS Reset",
     "description": "Snippet to reset your CSS file and remove all default HTML styles",
-    "version": "1.0.0",
-    "publisher": "Rishabh Das",
+    "version": "1.0.1",
+    "publisher": "RishabhDas",
     "repository": {
         "type": "git",
         "url": "https://github.com/flyinspaghetti/cssreset"
@@ -30,5 +30,6 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
-    }
+    },
+    "dependencies": {}
 }

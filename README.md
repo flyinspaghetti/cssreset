@@ -8,14 +8,16 @@ Just type `!cssres` and press `enter`, and the snippet will appear.
 
 It is recommended that you use the snippet at the beginning of your CSS file. 
 
-![feature](snippet.webp)
+![feature](snippet.png)
 
 
 ## Release Notes
 
 CSS Reset is released.
 
-### 1.0.0
 
+### 1.0.0
 Initial release of CSS Reset
 
+### 1.0.1
+Minor adjustments
